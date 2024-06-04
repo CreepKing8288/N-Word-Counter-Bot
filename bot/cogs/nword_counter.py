@@ -12,7 +12,10 @@ from utils.discord import convert_color, generate_message_embed
 NWORDS_LIST = [
     (chr(110) + chr(105) + chr(103) + chr(103) + chr(97)),
     (chr(47) + chr(92) + chr(47) + chr(105) + chr(103) + chr(103) + chr(97)),
-    (chr(124) + chr(92) + chr(47) + chr(105) + chr(103) + chr(103) + chr(97))
+    (chr(124) + chr(92) + chr(47) + chr(105) + chr(103) + chr(103) + chr(97)),
+    (chr(107) + chr(110) + chr(101) + chr(101) + chr(103) + chr(97)),
+    (chr(107) + chr(110) + chr(101) + chr(101) + chr(103) + chr(101) + chr(114)),
+    (chr(110) + chr(101) + chr(103) + chr(114) + chr(111))
 ]
 HARD_RS_LIST = [
     (chr(110) + chr(105) + chr(103) + chr(103) + chr(101) + chr(114)),
