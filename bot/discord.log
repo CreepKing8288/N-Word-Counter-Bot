@@ -5,3 +5,25 @@
 2024-06-04 14:59:12,040:INFO:discord: Using Discord.py version 2.4.1
 2024-06-04 14:59:12,040:INFO:discord: Using Python version 3.10.13
 2024-06-04 14:59:12,041:INFO:discord: Running on Linux 6.1.43 (posix)
+2024-06-04 15:23:19,740:INFO:discord.gateway: Websocket closed with WSCloseCode.ABNORMAL_CLOSURE, attempting a reconnect.
+2024-06-04 15:23:19,751:INFO:discord.shard: Got a request to RESUME the websocket at Shard ID 0.
+2024-06-04 15:23:20,031:INFO:discord.gateway: Shard ID 0 has sent the RESUME payload.
+2024-06-04 15:23:20,137:INFO:discord.gateway: Shard ID 0 session has been invalidated.
+2024-06-04 15:23:20,243:INFO:discord.shard: Got a request to IDENTIFY the websocket at Shard ID 0.
+2024-06-04 15:23:25,453:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2024-06-04 15:23:25,686:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-us-east1-d-kz7p",{"micros":126194,"calls":["id_created",{"micros":772,"calls":[]},"session_lookup_time",{"micros":306,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-1-126",{"micros":123947,"calls":["start_session",{"micros":78630,"calls":["discord-api-pyupgrade-676bdb9967-kjbvc",{"micros":74925,"calls":["get_user",{"micros":9999},"get_guilds",{"micros":4361},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":64,"calls":[]},"presence_started",{"micros":33765,"calls":[]},"guilds_started",{"micros":146,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":11308,"calls":[]},"connect_finished",{"micros":11318,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ed916a801289c199eba965327d0e1c0d).
+2024-06-04 15:23:27,729:INFO:discord: Knee Grow connected!
+2024-06-04 15:23:27,730:INFO:discord: Using Discord.py version 2.4.1
+2024-06-04 15:23:27,730:INFO:discord: Using Python version 3.10.13
+2024-06-04 15:23:27,730:INFO:discord: Running on Linux 6.1.43 (posix)
+2024-06-04 15:28:10,754:INFO:discord.gateway: Websocket closed with WSCloseCode.ABNORMAL_CLOSURE, attempting a reconnect.
+2024-06-04 15:28:10,759:INFO:discord.shard: Got a request to RESUME the websocket at Shard ID 0.
+2024-06-04 15:28:11,015:INFO:discord.gateway: Shard ID 0 has sent the RESUME payload.
+2024-06-04 15:28:13,607:INFO:discord.gateway: Shard ID 0 session has been invalidated.
+2024-06-04 15:28:13,721:INFO:discord.shard: Got a request to IDENTIFY the websocket at Shard ID 0.
+2024-06-04 15:28:18,943:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2024-06-04 15:28:19,134:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-us-east1-d-qks7",{"micros":74605,"calls":["id_created",{"micros":812,"calls":[]},"session_lookup_time",{"micros":475,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-1-105",{"micros":73027,"calls":["start_session",{"micros":48411,"calls":["discord-api-pyupgrade-676bdb9967-7j427",{"micros":45423,"calls":["get_user",{"micros":8625},"get_guilds",{"micros":3138},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":534},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":63,"calls":[]},"presence_started",{"micros":11486,"calls":[]},"guilds_started",{"micros":149,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":12891,"calls":[]},"connect_finished",{"micros":12896,"calls":[]},"build_ready",{"micros":17,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: f7111e6718cfb54c5ce2ff4f4e443cd6).
+2024-06-04 15:28:21,169:INFO:discord: Knee Grow connected!
+2024-06-04 15:28:21,169:INFO:discord: Using Discord.py version 2.4.1
+2024-06-04 15:28:21,169:INFO:discord: Using Python version 3.10.13
+2024-06-04 15:28:21,169:INFO:discord: Running on Linux 6.1.43 (posix)
