@@ -5,3 +5,21 @@
 2024-06-04 14:59:12,040:INFO:discord: Using Discord.py version 2.4.1
 2024-06-04 14:59:12,040:INFO:discord: Using Python version 3.10.13
 2024-06-04 14:59:12,041:INFO:discord: Running on Linux 6.1.43 (posix)
+2024-06-04 15:23:19,740:INFO:discord.gateway: Websocket closed with WSCloseCode.ABNORMAL_CLOSURE, attempting a reconnect.
+2024-06-04 15:23:19,751:INFO:discord.shard: Got a request to RESUME the websocket at Shard ID 0.
+2024-06-04 15:23:20,031:INFO:discord.gateway: Shard ID 0 has sent the RESUME payload.
+2024-06-04 15:23:20,137:INFO:discord.gateway: Shard ID 0 session has been invalidated.
+2024-06-04 15:23:20,243:INFO:discord.shard: Got a request to IDENTIFY the websocket at Shard ID 0.
+2024-06-04 15:23:25,453:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2024-06-04 15:23:25,686:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-us-east1-d-kz7p",{"micros":126194,"calls":["id_created",{"micros":772,"calls":[]},"session_lookup_time",{"micros":306,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-prd-1-126",{"micros":123947,"calls":["start_session",{"micros":78630,"calls":["discord-api-pyupgrade-676bdb9967-kjbvc",{"micros":74925,"calls":["get_user",{"micros":9999},"get_guilds",{"micros":4361},"send_scheduled_deletion_message",{"micros":7},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":6}]}]},"starting_guild_connect",{"micros":64,"calls":[]},"presence_started",{"micros":33765,"calls":[]},"guilds_started",{"micros":146,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":11308,"calls":[]},"connect_finished",{"micros":11318,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ed916a801289c199eba965327d0e1c0d).
+2024-06-04 15:23:27,729:INFO:discord: Knee Grow connected!
+2024-06-04 15:23:27,730:INFO:discord: Using Discord.py version 2.4.1
+2024-06-04 15:23:27,730:INFO:discord: Using Python version 3.10.13
+2024-06-04 15:23:27,730:INFO:discord: Running on Linux 6.1.43 (posix)
+2024-06-04 15:37:22,157:INFO:discord.gateway: Websocket closed with WSCloseCode.ABNORMAL_CLOSURE, attempting a reconnect.
+2024-06-04 15:37:22,169:INFO:discord.shard: Got a request to RESUME the websocket at Shard ID 0.
+2024-06-04 15:37:22,473:INFO:discord.gateway: Shard ID 0 has sent the RESUME payload.
+2024-06-04 15:37:22,578:INFO:discord.gateway: Shard ID 0 session has been invalidated.
+2024-06-04 15:37:22,686:INFO:discord.shard: Got a request to IDENTIFY the websocket at Shard ID 0.
+2024-06-04 15:37:27,912:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2024-06-04 15:37:28,118:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-us-east1-d-hgcs",{"micros":101112,"calls":["id_created",{"micros":1173,"calls":[]},"session_lookup_time",{"micros":5625,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-prd-1-243",{"micros":94027,"calls":["start_session",{"micros":55962,"calls":["discord-api-pyupgrade-676bdb9967-56d98",{"micros":51954,"calls":["get_user",{"micros":6770},"get_guilds",{"micros":2429},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":494},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":65,"calls":[]},"presence_started",{"micros":17311,"calls":[]},"guilds_started",{"micros":182,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":20468,"calls":[]},"connect_finished",{"micros":20475,"calls":[]},"build_ready",{"micros":26,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]}]}]}] (Session ID: ac8592b9bcc7f69c2f16a14a2405f804).
