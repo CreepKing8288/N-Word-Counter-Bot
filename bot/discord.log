@@ -1,0 +1,7 @@
+2024-06-04 14:59:09,270:INFO:discord.client: logging in using static token
+2024-06-04 14:59:09,855:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2024-06-04 14:59:10,035:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-us-east1-d-06bx",{"micros":64187,"calls":["id_created",{"micros":737,"calls":[]},"session_lookup_time",{"micros":3307,"calls":[]},"session_lookup_finished",{"micros":20,"calls":[]},"discord-sessions-prd-1-252",{"micros":59141,"calls":["start_session",{"micros":40929,"calls":["discord-api-pyupgrade-676bdb9967-f5sck",{"micros":36792,"calls":["get_user",{"micros":5079},"get_guilds",{"micros":2594},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":564},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":61,"calls":[]},"presence_started",{"micros":227,"calls":[]},"guilds_started",{"micros":70,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":17784,"calls":[]},"connect_finished",{"micros":17788,"calls":[]},"build_ready",{"micros":59,"calls":[]},"clean_ready",{"micros":1,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: cbc5c1ca7ec0158cd0231532f472acab).
+2024-06-04 14:59:12,040:INFO:discord: Knee Grow connected!
+2024-06-04 14:59:12,040:INFO:discord: Using Discord.py version 2.4.1
+2024-06-04 14:59:12,040:INFO:discord: Using Python version 3.10.13
+2024-06-04 14:59:12,041:INFO:discord: Running on Linux 6.1.43 (posix)
